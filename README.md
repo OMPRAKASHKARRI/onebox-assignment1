@@ -111,7 +111,7 @@ Carefully install the following before running the backend:-
 
 1. Clone the Repository
 
-"git clone https://github.com/Arpit-singh12/onebox-assignment1.git"
+"git clone https://github.com/OMPRAKASHKARRI/onebox-assignment1.git"
 
 2. Install all dependencies
 
@@ -180,7 +180,6 @@ Some issue you can tackle:-
 
 
 ## Demo link...
-https://drive.google.com/file/d/1sYBR3JsdO_wWkNVQtHjTiYtnaACnDuri/view?usp=sharing 
-
+https://drive.google.com/file/d/10OG66F02HCNYqC7zUZTntS6YHl-THNNt/view?usp=drive_link
 ![Screenshot 2025-06-12 052425](https://github.com/user-attachments/assets/c08e4353-9f54-4c75-b6b5-8738c6a4da9f)
 
